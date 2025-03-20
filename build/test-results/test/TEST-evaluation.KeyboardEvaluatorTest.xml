@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="evaluation.KeyboardEvaluatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-01-15T15:54:29" hostname="eduroam-prg-gm-1-0-134.net.univ-paris-diderot.fr" time="0.016">
+  <properties/>
+  <testcase name="testAlternanceBigram()" classname="evaluation.KeyboardEvaluatorTest" time="0.012"/>
+  <testcase name="testClassifyBigram_SFB()" classname="evaluation.KeyboardEvaluatorTest" time="0.001"/>
+  <testcase name="testClassifyBigram_ALTERNANCE()" classname="evaluation.KeyboardEvaluatorTest" time="0.001"/>
+  <testcase name="testClassifyTrigram_REDIRECTION()" classname="evaluation.KeyboardEvaluatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

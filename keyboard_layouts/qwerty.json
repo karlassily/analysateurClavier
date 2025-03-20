@@ -1,0 +1,34 @@
+{
+    "name": "QWERTY",
+    "keys": [
+      { "ch": "q", "row": 0, "col": 0, "finger": "LEFT_PINKY" },
+      { "ch": "w", "row": 0, "col": 1, "finger": "LEFT_RING" },
+      { "ch": "e", "row": 0, "col": 2, "finger": "LEFT_MIDDLE" },
+      { "ch": "r", "row": 0, "col": 3, "finger": "LEFT_INDEX" },
+      { "ch": "t", "row": 0, "col": 4, "finger": "LEFT_INDEX" },
+      { "ch": "y", "row": 0, "col": 5, "finger": "RIGHT_INDEX" },
+      { "ch": "u", "row": 0, "col": 6, "finger": "RIGHT_INDEX" },
+      { "ch": "i", "row": 0, "col": 7, "finger": "RIGHT_MIDDLE" },
+      { "ch": "o", "row": 0, "col": 8, "finger": "RIGHT_RING" },
+      { "ch": "p", "row": 0, "col": 9, "finger": "RIGHT_PINKY" },
+  
+      { "ch": "a", "row": 1, "col": 0, "finger": "LEFT_PINKY" },
+      { "ch": "s", "row": 1, "col": 1, "finger": "LEFT_RING" },
+      { "ch": "d", "row": 1, "col": 2, "finger": "LEFT_MIDDLE" },
+      { "ch": "f", "row": 1, "col": 3, "finger": "LEFT_INDEX" },
+      { "ch": "g", "row": 1, "col": 4, "finger": "LEFT_INDEX" },
+      { "ch": "h", "row": 1, "col": 5, "finger": "RIGHT_INDEX" },
+      { "ch": "j", "row": 1, "col": 6, "finger": "RIGHT_INDEX" },
+      { "ch": "k", "row": 1, "col": 7, "finger": "RIGHT_MIDDLE" },
+      { "ch": "l", "row": 1, "col": 8, "finger": "RIGHT_RING" },
+  
+      { "ch": "z", "row": 2, "col": 0, "finger": "LEFT_PINKY" },
+      { "ch": "x", "row": 2, "col": 1, "finger": "LEFT_RING" },
+      { "ch": "c", "row": 2, "col": 2, "finger": "LEFT_MIDDLE" },
+      { "ch": "v", "row": 2, "col": 3, "finger": "LEFT_INDEX" },
+      { "ch": "b", "row": 2, "col": 4, "finger": "LEFT_INDEX" },
+      { "ch": "n", "row": 2, "col": 5, "finger": "RIGHT_INDEX" },
+      { "ch": "m", "row": 2, "col": 6, "finger": "RIGHT_INDEX" }
+    ]
+  }
+  

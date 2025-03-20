@@ -1,0 +1,10 @@
+{
+  "SFB": 10,
+  "LSB": 20,
+  "CIS": 30,
+  "REDIRECTION": 40,
+  "SKIPGRAM": 50,
+  "ALTERNANCE": 60,
+  "ROLLING": 70,
+  "OTHER": 80
+}

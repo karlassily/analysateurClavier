@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.app.IntegrationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-01-15T15:54:29" hostname="eduroam-prg-gm-1-0-134.net.univ-paris-diderot.fr" time="0.026">
+  <properties/>
+  <testcase name="testFullEvaluation()" classname="test.java.app.IntegrationTest" time="0.026"/>
+  <system-out><![CDATA[Mouvement détecté : SFB | Coût : 10.0
+Mouvement détecté : ALTERNANCE | Coût : 60.0
+Mouvement détecté : ALTERNANCE | Coût : 60.0
+Score obtenu = 43.333333333333336
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
