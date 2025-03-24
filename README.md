@@ -1,5 +1,5 @@
-ASSILY Karl 22101183
-GEBRAYEL Maroun 22218173
+ASSILY Karl
+GEBRAYEL Maroun 
 
 # Projet CPOO5 - Analyseur de texte et Évaluateur de disposition de clavier
 
